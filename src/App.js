@@ -20,6 +20,7 @@ function App() {
           Learn React
           Feature commit 1
           Feature remote commit 1
+          Feature2 commit 1
         </a>
       </header>
     </div>
