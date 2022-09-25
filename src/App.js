@@ -21,6 +21,7 @@ function App() {
           Feature commit 1
           Feature remote commit 1
         </a>
+        Feature remote commit 2
       </header>
     </div>
   );
